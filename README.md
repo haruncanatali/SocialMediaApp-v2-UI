@@ -11,7 +11,7 @@
 - SERILOG
 - Entity Framework Core
 - Entity Framework Core Identity
-- JWT AutHentication
+- JWT Authentication
 
 ### Çalıştırma
 #### Backend
